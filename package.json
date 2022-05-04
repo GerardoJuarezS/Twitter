@@ -1,0 +1,24 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Proyecto 3 LaunchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoJuarezS/Twitter.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Javascript",
+    "LaunchX"
+  ],
+  "author": "Gerardo Juarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerardoJuarezS/Twitter/issues"
+  },
+  "homepage": "https://github.com/GerardoJuarezS/Twitter#readme"
+}
